@@ -1,9 +1,5 @@
 package controllers;
 
-import java.util.ArrayList;
-import java.util.List;
-import java.util.Scanner;
-
 import helpers.InputValidator;
 import models.Address;
 import models.User;
